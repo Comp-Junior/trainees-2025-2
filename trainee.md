@@ -5,3 +5,4 @@
 <!-- INSIRA SEU NOME E O SEU PERFIL DO GITHUB-->
 <!-- [Seu Nome](PERFIL DO GITHUB) -->
 - [José Neto](https://github.com/JoseJaan)
+- [Daniel Reis](https://github.com/danielreissss)
