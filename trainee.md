@@ -8,4 +8,6 @@
 - [José Neto](https://github.com/JoseJaan)
 - [Arthur Fazzio](https://github.com/miyateru)
 - [Daniel Reis](https://github.com/danielreissss)
+- [Lívia Masson](https://github.com/meta-naito)
 - [Rafael Damaso](https://github.com/DamasoRafael)
+
